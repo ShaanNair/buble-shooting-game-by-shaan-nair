@@ -1,1 +1,8 @@
-# buble-shooting-game-by-shaan-nair
+mulliTapja
+==========
+
+shooting bubles
+
+npm start
+
+localhost:3000
